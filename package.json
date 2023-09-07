@@ -1,5 +1,5 @@
 {
-  "name": "superset-plugin-chart-hello-world",
+  "name": "@superset-plugin-chart-hello-world",
   "version": "0.0.1",
   "description": "Superset Plugin Chart Hello World",
   "sideEffects": false,
@@ -24,7 +24,7 @@
   "author": "My Name",
   "license": "MIT",
   "publishConfig": {
-    "@YOUR-deep27:registry": "https://npm.pkg.github.com",
+    "registry":"https://npm.pkg.github.com/",
     "access": "public"
   },
   "peerDependencies": {
